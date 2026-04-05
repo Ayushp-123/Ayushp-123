@@ -1,4 +1,6 @@
-## Hi there 👋
+ <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlkdGZiNm51OWQ0YjNjemV4ZDNtMnk4amlhbzJhZDlpYjhseWVkbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+</p>
 
 # 💫 About Me:
 🔭 I’m currently working on<br><br>Data Science projects <br>Improving project structure and real-world implementation skills<br><br>👯 I’m looking to collaborate on<br><br>Data Science projects<br>Open source beginner-friendly projects<br><br>🤝 I’m looking for help with<br><br>Understanding Data Structures & Algorithms (DSA)<br>Improving debugging and problem-solving skills<br><br>🌱 I’m currently learning<br><br>Data Science<br>Machine Learning fundamentals<br>Data visualization <br><br>⚡ Fun fact<br><br>Learning → Building → Improving is my cycle
