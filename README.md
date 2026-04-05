@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWlkdGZiNm51OWQ0YjNjemV4ZDNtMnk4amlhbzJhZDlpYjhseWVkbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" />
+  <img src="(https://tenor.com/bqrUA.gif)" width="400" />
 </p>
 
 # 💫 About Me:
