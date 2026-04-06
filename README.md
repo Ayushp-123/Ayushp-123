@@ -21,13 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushp-123&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   <img src="https://streak-stats.demolab.com?user=Ayushp-123&theme=dark&hide_border=false" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushp-123&theme=dark&hide_border=false&layout=compact" />
 </p>
-
-
-
 ### ***
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
