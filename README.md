@@ -16,16 +16,21 @@
 </p>
 
 
-# 📊 GitHub Stats:
+📊 GitHub Stats:
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayushp-123&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
-  <img src="https://streak-stats.demolab.com?user=Ayushp-123&theme=dark&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayushp-123&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img src="https://streak-stats.demolab.com?user=Ayushp-123&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ayushp-123&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushp-123&theme=dark&hide_border=false&layout=compact" />
 </p>
+
 
 ### 🤖Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
