@@ -15,7 +15,7 @@
   <img src="https://media1.tenor.com/m/ECiUGI4kthAAAAAC/loading-gif.gif" width="600"/>
 </p>
 
-📊 GitHub Activity:
+## 📊 GitHub Activity:
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ayushp-123&theme=tokyonight&hide_border=true" />
