@@ -32,7 +32,6 @@
 ![Snake animation](https://github.com/Ayushp-123/Ayushp-123/blob/output/github-contribution-grid-snake.svg)
 
 
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushp-123&theme=tokyo-night)]()
 
 ### 🤖Dev Quotes:
 
