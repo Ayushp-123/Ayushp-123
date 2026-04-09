@@ -21,6 +21,11 @@
   <img src="https://streak-stats.demolab.com?user=Ayushp-123&theme=tokyonight&hide_border=true" />
 </p>
 
+  ## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Ayushp-123/Ayushp-123/blob/output/github-contribution-grid-snake.svg)
+
+
 ### 🤖Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
