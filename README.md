@@ -2,6 +2,10 @@
   <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="650"/>
 </p>
 
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub!;Always+Learning+New+Things&center=true&width=500&height=50">
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on<br><br>Data Science projects <br>Improving project structure and real-world implementation skills<br><br>👯 I’m looking to collaborate on<br><br>Data Science projects<br>Open source beginner-friendly projects<br><br>🤝 I’m looking for help with<br><br>Understanding Data Structures & Algorithms (DSA)<br>Improving debugging and problem-solving skills<br><br>🌱 I’m currently learning<br><br>Data Science<br>Machine Learning fundamentals<br>Data visualization <br><br>⚡ Fun fact<br><br>Learning → Building → Improving is my cycle
 
@@ -26,7 +30,10 @@
 ![Snake animation](https://github.com/Ayushp-123/Ayushp-123/blob/output/github-contribution-grid-snake.svg)
 
 
+
+
 ### 🤖Dev Quotes:
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
