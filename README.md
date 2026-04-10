@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub!;Always+Learning+New+Things&center=true&width=500&height=50">
 
 
-
 # 💫 About Me:
 🔭 I’m currently working on<br><br>Data Science projects <br>Improving project structure and real-world implementation skills<br><br>👯 I’m looking to collaborate on<br><br>Data Science projects<br>Open source beginner-friendly projects<br><br>🤝 I’m looking for help with<br><br>Understanding Data Structures & Algorithms (DSA)<br>Improving debugging and problem-solving skills<br><br>🌱 I’m currently learning<br><br>Data Science<br>Machine Learning fundamentals<br>Data visualization <br><br>⚡ Fun fact<br><br>Learning → Building → Improving is my cycle
 
