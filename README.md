@@ -1,48 +1,208 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="650"/>
+  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="700"/>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+GitHub!;Always+Learning+New+Things&center=true&width=500&height=50">
+<h1 align="center">Hi 👋, I'm Ayush Patnayak</h1>
 
-
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Data Science projects <br>Improving project structure and real-world implementation skills<br><br>👯 I’m looking to collaborate on<br><br>Data Science projects<br>Open source beginner-friendly projects<br><br>🤝 I’m looking for help with<br><br>Understanding Data Structures & Algorithms (DSA)<br>Improving debugging and problem-solving skills<br><br>🌱 I’m currently learning<br><br>Data Science<br>Machine Learning fundamentals<br>Data visualization <br><br>⚡ Fun fact<br><br>Learning → Building → Improving is my cycle
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushpatnayak07@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+<h3 align="center">
+B.Tech CSE (Data Science) Student • AI & Machine Learning Enthusiast • Full Stack Developer
+</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/ECiUGI4kthAAAAAC/loading-gif.gif" width="600"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Data+Science;Building+Real+World+Projects;Open+Source+Learner;Always+Learning+Something+New+🚀"/>
 </p>
 
-## 📊 GitHub Activity:
+---
 
+# 👨‍💻 About Me
+
+I'm a **B.Tech Computer Science (Data Science)** student from India 🇮🇳 passionate about building **AI-powered applications**, solving real-world problems, and continuously learning new technologies.
+
+I enjoy turning ideas into impactful projects using **Machine Learning, Data Science, Cloud Computing, and Full Stack Development.**
+
+> **Learn ➜ Build ➜ Improve ➜ Repeat 🚀**
+
+---
+
+# 🚀 Currently Working On
+
+- 🤖 Artificial Intelligence
+- 📊 Data Science Projects
+- 🧠 Machine Learning
+- 🌐 Full Stack Development
+- 📚 Data Structures & Algorithms
+- ☁ Google Cloud Technologies
+- 🌱 Open Source Contributions
+
+---
+
+# 🏆 Achievements
+
+🏅 Google Cloud Skill Badges
+
+💻 Built Multiple Real World Projects
+
+🚀 Hackathon Participant
+
+🌍 Open Source Learner
+
+📈 Constantly Learning New Technologies
+
+---
+
+# 💼 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🩺 **Vita Rescue** | Emergency Response Android Application |
+| 🌱 **EcoSecure DevAI** | AI Powered Sustainable DevOps Platform |
+| 📊 **FinSight** | Personal Expense Tracker using Streamlit |
+| 🎬 **CineVerse AI** | Movie Recommendation System |
+| 📡 **RFID Attendance System** | Smart Attendance & Access Control System |
+
+---
+
+# 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### ☁ Cloud
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🤖 Data Science
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🛠 Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ayushp-123&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayushp-123&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushp-123&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
+<p align="center">
 
+<img src="https://streak-stats.demolab.com?user=Ayushp-123&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushp-123&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 [![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushp-123&theme=tokyo-night)]()
 
-  ## 🐍 Contribution Snake
+---
 
-## ![Snake animation](https://github.com/Ayushp-123/Ayushp-123/blob/output/github-contribution-grid-snake.svg)
+# 🌐 Connect With Me
 
+<p align="center">
 
+<a href="mailto:ayushpatnayak07@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🤖Dev Quotes:
+<a href="https://github.com/Ayushp-123">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Add LinkedIn -->
 
+<!-- Add Portfolio -->
 
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayushp-123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# ☕ Fun Facts
+
+💡 I love building AI-powered applications.
+
+🏏 Cricket Fan.
+
+🎬 Anime Enthusiast.
+
+🌙 Most productive after sunset.
+
+🚀 Learning something new every single day.
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/Ayushp-123/Ayushp-123/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Ayushp-123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+If you like my work, don't forget to ⭐ my repositories.
+
+Happy Coding! 🚀
+
+</h3>
