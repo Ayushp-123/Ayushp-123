@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Patel</h1>
+<h1 align="center">Hi 👋, I'm Ayush Patnayak</h1>
 
 <h3 align="center">
 🚀 AI & Data Science Enthusiast | Full Stack Developer | Google Cloud Learner
