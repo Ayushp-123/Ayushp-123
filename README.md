@@ -1,38 +1,48 @@
-<p align="center">
-  <img src="https://media1.tenor.com/m/GfSX-u7VGM4AAAAC/coding.gif" width="700"/>
-</p>
-
-<h1 align="center">Hi 👋, I'm Ayush Patnayak</h1>
+<h1 align="center">Hi 👋, I'm Ayush Patel</h1>
 
 <h3 align="center">
-B.Tech CSE (Data Science) Student • AI & Machine Learning Enthusiast • Full Stack Developer
+🚀 AI & Data Science Enthusiast | Full Stack Developer | Google Cloud Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+%7C+Data+Science;Building+Real+World+Projects;Open+Source+Learner;Always+Learning+Something+New+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C4FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+(Data+Science)+Student;Artificial+Intelligence+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Google+Cloud+Learner;Always+Learning+New+Things+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ayushp-123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Ayushp-123?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/Ayushp-123?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 💫 About Me
 
-I'm a **B.Tech Computer Science (Data Science)** student from India 🇮🇳 passionate about building **AI-powered applications**, solving real-world problems, and continuously learning new technologies.
+🎓 **B.Tech Computer Science (Data Science)** Student from India 🇮🇳
 
-I enjoy turning ideas into impactful projects using **Machine Learning, Data Science, Cloud Computing, and Full Stack Development.**
+💡 Passionate about solving real-world problems through **Artificial Intelligence and Data Science**
 
-> **Learn ➜ Build ➜ Improve ➜ Repeat 🚀**
+🚀 Currently exploring **Machine Learning, Deep Learning, Cloud Computing, and Full Stack Development**
+
+☁ Learning **Google Cloud Platform**
+
+📚 Improving **Data Structures & Algorithms**
+
+🌱 Open Source Learner & Hackathon Enthusiast
+
+> **"Learn → Build → Deploy → Improve → Repeat 🚀"**
 
 ---
 
-# 🚀 Currently Working On
+# 🚀 Current Focus
 
 - 🤖 Artificial Intelligence
-- 📊 Data Science Projects
 - 🧠 Machine Learning
+- 📊 Data Science
 - 🌐 Full Stack Development
+- ☁ Google Cloud Platform
 - 📚 Data Structures & Algorithms
-- ☁ Google Cloud Technologies
-- 🌱 Open Source Contributions
+- 🚀 Open Source Contributions
 
 ---
 
@@ -40,25 +50,25 @@ I enjoy turning ideas into impactful projects using **Machine Learning, Data Sci
 
 🏅 Google Cloud Skill Badges
 
-💻 Built Multiple Real World Projects
+🚀 Built AI & Real-World Applications
 
-🚀 Hackathon Participant
+💻 Multiple Full Stack Projects
 
-🌍 Open Source Learner
+🌱 Open Source Learner
 
-📈 Constantly Learning New Technologies
+🎯 Continuous Learner
 
 ---
 
-# 💼 Featured Projects
+# 🌟 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🩺 **Vita Rescue** | Emergency Response Android Application |
-| 🌱 **EcoSecure DevAI** | AI Powered Sustainable DevOps Platform |
-| 📊 **FinSight** | Personal Expense Tracker using Streamlit |
-| 🎬 **CineVerse AI** | Movie Recommendation System |
-| 📡 **RFID Attendance System** | Smart Attendance & Access Control System |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🩺 **Vita Rescue** | Emergency Response Android Application | Android • Firebase |
+| 🌱 **EcoSecure DevAI** | AI Powered Sustainable DevOps Platform | AI • Python • Cloud |
+| 📊 **FinSight** | Personal Expense Tracker | Streamlit • Python |
+| 🎬 **CineVerse AI** | Movie Recommendation System | ML • Python |
+| 📡 **RFID Attendance System** | Smart Attendance & Access Control | IoT • RFID |
 
 ---
 
@@ -66,46 +76,47 @@ I enjoy turning ideas into impactful projects using **Machine Learning, Data Sci
 
 ### 👨‍💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,typescript"/>
+</p>
 
 ### 🌐 Web Development
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,tailwind"/>
+</p>
 
-### ☁ Cloud
+### 🤖 AI • ML • Data Science
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+</p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p>
 
-### 🤖 Data Science
+Python • Pandas • NumPy • Scikit-Learn • Streamlit • Matplotlib
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+</p>
 
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+### ☁ Cloud & DevOps
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,docker,git,github,linux"/>
+</p>
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
+</p>
 
 ### 🛠 Tools
 
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+VS Code • Jupyter Notebook • Android Studio • Postman • Figma
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -115,9 +126,23 @@ I enjoy turning ideas into impactful projects using **Machine Learning, Data Sci
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Ayushp-123&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushp-123&theme=tokyo-night"/>
 
 </p>
 
@@ -127,49 +152,9 @@ I enjoy turning ideas into impactful projects using **Machine Learning, Data Sci
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushp-123&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushp-123&theme=algolia&row=2&column=4"/>
 
 </p>
-
----
-
-# 📈 Contribution Graph
-
-[![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayushp-123&theme=tokyo-night)]()
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:ayushpatnayak07@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Ayushp-123">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<!-- Add LinkedIn -->
-
-<!-- Add Portfolio -->
-
-</p>
-
----
-
-# ☕ Fun Facts
-
-💡 I love building AI-powered applications.
-
-🏏 Cricket Fan.
-
-🎬 Anime Enthusiast.
-
-🌙 Most productive after sunset.
-
-🚀 Learning something new every single day.
 
 ---
 
@@ -177,31 +162,57 @@ I enjoy turning ideas into impactful projects using **Machine Learning, Data Sci
 
 <p align="center">
 
-<img src="https://github.com/Ayushp-123/Ayushp-123/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Ayushp-123/Ayushp-123/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
 ---
 
-# 💭 Random Dev Quote
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/Ayushp-123">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- Add your LinkedIn -->
+<!-- Add your Portfolio -->
+<!-- Add your Email -->
+
+</p>
+
+---
+
+# ☕ Fun Facts
+
+🤖 I love building AI-powered applications.
+
+☁ Exploring Google Cloud technologies.
+
+📚 Always learning something new.
+
+🏏 Cricket Fan.
+
+🎬 Anime Enthusiast.
+
+🌙 Most productive after sunset.
+
+🚀 Dream: Build impactful AI products.
+
+---
+
+# 💭 Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Ayushp-123&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
 <h3 align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+⭐ Thanks for visiting my profile!
 
-If you like my work, don't forget to ⭐ my repositories.
+If you like my work, consider giving a ⭐ to my repositories.
 
 Happy Coding! 🚀
 
