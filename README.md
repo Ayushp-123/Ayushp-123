@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Ayush Patnayak
+# 👋 Hey, I'm Ayush Patnayak 
 
 ### AI • Data Science • Full-Stack • Cloud
 
